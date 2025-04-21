@@ -1,0 +1,2 @@
+#Enable the Arrow Rider enchantment functionality. If false, the enchantment exists but does nothing.
+enableArrowRiding = true
